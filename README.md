@@ -1,10 +1,9 @@
 ## Sobre
 
-Esse projeto foi construído para fins didáticos, consiste na idéia de fazer uma página web minimalista da steam, um software de gestão de direitos digitais, plataformas digitais como jogos, entre outros.
+Esse projeto foi construído para fins didáticos, afim de aprimorar  e principalmente fixar conceitos de hook do react como useState, utilizado para fazer a transição das páginas e o useEffect utilizado para consumir uma API do react.
 
 ## Tecnologias
 
-- NextJs 
 - ReactJs 
 
 ## Pré requisitos
