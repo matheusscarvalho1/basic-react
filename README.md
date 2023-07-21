@@ -9,7 +9,7 @@ Esse projeto foi construído para fins didáticos, consiste na idéia de fazer u
 
 ## Pré requisitos
 
-Você precisa ter instalado o NodeJS (Recomendado: versão 18) e o npm ou yarn.
+Você precisa ter instalado o NodeJS e o npm ou yarn.
 - Instalação do nodejs: https://nodejs.org/
 
 Também é necessário uma IDE, recomendo o VsCode
