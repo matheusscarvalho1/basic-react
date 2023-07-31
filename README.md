@@ -1,6 +1,6 @@
 ## Sobre
 
-Esse projeto foi construído para fins didáticos, afim de aprimorar e principalmente fixar conceitos de hook do react como useState, utilizado para fazer a transição das páginas e o useEffect utilizado para consumir uma API através de uma fetch ('https://jsonplaceholder.typicode.com/') para obter dados em .JSON para popular as páginas de Usuários, Albuns e Contador utiliziando react.
+Esse projeto foi construído para fins didáticos, afim de aprimorar e principalmente fixar conceitos de hooks do react como useState, utilizado para fazer a transição das páginas e o useEffect utilizado para consumir uma API através de uma fetch ('https://jsonplaceholder.typicode.com/') para obter dados em .JSON para popular as páginas de Usuários, Albuns e Contador utiliziando react.
 
 ## Tecnologias
 
